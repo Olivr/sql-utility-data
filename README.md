@@ -1,6 +1,10 @@
 # SQL Utility Data
 
-This is a clean relational data set for regions ([UN M49](https://en.wikipedia.org/wiki/UN_M49)), countries ([ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1), [UN M49](https://en.wikipedia.org/wiki/UN_M49)), languages ([ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)) and currencies ([ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)) to be used in your project.
+This is a clean relational data set for __regions__ ([UN
+M49](https://en.wikipedia.org/wiki/UN_M49)), __countries__ ([ISO
+3166-1](https://en.wikipedia.org/wiki/ISO_3166-1), [UN
+M49](https://en.wikipedia.org/wiki/UN_M49)), __languages__ ([ISO
+639-1](https://en.wikipedia.org/wiki/ISO_639-1)) and __currencies__ ([ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)) to be used in your project.
 
 > Tested with PostgreSQL 14
 
